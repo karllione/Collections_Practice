@@ -1,0 +1,15 @@
+D:\VS Solutions\Collections_Practice\Stack5\bin\Debug\net8.0\Stack5.exe
+D:\VS Solutions\Collections_Practice\Stack5\bin\Debug\net8.0\Stack5.deps.json
+D:\VS Solutions\Collections_Practice\Stack5\bin\Debug\net8.0\Stack5.runtimeconfig.json
+D:\VS Solutions\Collections_Practice\Stack5\bin\Debug\net8.0\Stack5.dll
+D:\VS Solutions\Collections_Practice\Stack5\bin\Debug\net8.0\Stack5.pdb
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.AssemblyInfoInputs.cache
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.AssemblyInfo.cs
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.csproj.CoreCompileInputs.cache
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.sourcelink.json
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.dll
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\refint\Stack5.dll
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.pdb
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\Stack5.genruntimeconfig.cache
+D:\VS Solutions\Collections_Practice\Stack5\obj\Debug\net8.0\ref\Stack5.dll
